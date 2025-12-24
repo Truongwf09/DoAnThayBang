@@ -317,7 +317,7 @@ namespace WebBanPizza.Controllers
         public IActionResult TaoCoupon()
         {
             if (!IsAdmin()) return Unauthorized();
-            return View(new Coupon { NgayHetHan = DateTime.Now.AddMonths(1) });
+            return View(new Coupon { NgayHetHan = DateTime.UtcNow.AddMonths(1) });
         }
 
         [HttpPost]
@@ -337,7 +337,12 @@ namespace WebBanPizza.Controllers
                 ModelState.AddModelError(nameof(c.Ma), "Mã đã tồn tại.");
                 return View(c);
             }
-
+            // 
+            if (c.NgayHetHan.HasValue)
+            {
+                c.NgayHetHan = DateTime.SpecifyKind(c.NgayHetHan.Value, DateTimeKind.Utc);
+            }
+            //
             _context.Coupons.Add(c);
             await _context.SaveChangesAsync();
             TempData["Success"] = "Đã tạo mã giảm giá.";
@@ -370,7 +375,12 @@ namespace WebBanPizza.Controllers
                 ModelState.AddModelError(nameof(c.Ma), "Mã đã tồn tại.");
                 return View(c);
             }
-
+            // Đảm bảo NgayHetHan luôn là UTC trước khi lưu vào PostgreSQL
+            if (c.NgayHetHan.HasValue)
+            {
+                c.NgayHetHan = DateTime.SpecifyKind(c.NgayHetHan.Value, DateTimeKind.Utc);
+            }
+            //
             _context.Coupons.Update(c);
             await _context.SaveChangesAsync();
             TempData["Success"] = "Đã cập nhật mã.";
