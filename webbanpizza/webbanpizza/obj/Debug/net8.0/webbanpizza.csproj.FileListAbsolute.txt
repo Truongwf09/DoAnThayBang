@@ -89,3 +89,46 @@ C:\Users\DIEP LAN\Desktop\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\
 C:\Users\DIEP LAN\Desktop\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\webbanpizza.pdb
 C:\Users\DIEP LAN\Desktop\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\webbanpizza.genruntimeconfig.cache
 C:\Users\DIEP LAN\Desktop\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\ref\webbanpizza.dll
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\appsettings.json
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\webbanpizza.staticwebassets.runtime.json
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\webbanpizza.staticwebassets.endpoints.json
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\webbanpizza.exe
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\webbanpizza.deps.json
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\webbanpizza.runtimeconfig.json
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\webbanpizza.dll
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\webbanpizza.pdb
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\Npgsql.dll
+D:\DoAnThayBang\webbanpizza\webbanpizza\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\webbanpizza.csproj.AssemblyReference.cache
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\webbanpizza.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\webbanpizza.AssemblyInfoInputs.cache
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\webbanpizza.AssemblyInfo.cs
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\webbanpizza.csproj.CoreCompileInputs.cache
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\webbanpizza.MvcApplicationPartsAssemblyInfo.cache
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\webbanpizza.RazorAssemblyInfo.cache
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\webbanpizza.RazorAssemblyInfo.cs
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\webbanpizza.sourcelink.json
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\scopedcss\bundle\webbanpizza.styles.css
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\scopedcss\projectbundle\webbanpizza.bundle.scp.css
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\staticwebassets.build.json
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\staticwebassets.development.json
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\webbanpi.BDD66DC8.Up2Date
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\webbanpizza.dll
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\refint\webbanpizza.dll
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\webbanpizza.pdb
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\webbanpizza.genruntimeconfig.cache
+D:\DoAnThayBang\webbanpizza\webbanpizza\obj\Debug\net8.0\ref\webbanpizza.dll

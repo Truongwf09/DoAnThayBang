@@ -9,133 +9,133 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = webbanpizza
 build_property.RootNamespace = webbanpizza
-build_property.ProjectDir = C:\Users\Ad\Desktop\DoAnThayBang\webbanpizza\webbanpizza\
+build_property.ProjectDir = D:\DoAnThayBang\webbanpizza\webbanpizza\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Ad\Desktop\DoAnThayBang\webbanpizza\webbanpizza
+build_property.MSBuildProjectDirectory = D:\DoAnThayBang\webbanpizza\webbanpizza
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/Account/DangKy.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/Account/DangKy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEYW5nS3kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/Account/DangNhap.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/Account/DangNhap.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEYW5nTmhhcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/DiaChi/Index.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/DiaChi/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhQ2hpXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/DonHang/ChiTiet.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/DonHang/ChiTiet.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uSGFuZ1xDaGlUaWV0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/DonHang/Index.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/DonHang/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uSGFuZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/DonHang/LichSuDonHang.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/DonHang/LichSuDonHang.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uSGFuZ1xMaWNoU3VEb25IYW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/GioHang/Index.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/GioHang/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lvSGFuZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/Home/Index.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/Home/Privacy.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/Home/_ComingSoon.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/Home/_ComingSoon.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfQ29taW5nU29vbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/Payment/Qr.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/Payment/Qr.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxRci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/Pizza/Details.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/Pizza/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/Pizza/Index.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/Pizza/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/Pizza/Loc.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/Pizza/Loc.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcTG9jLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/Pizza/TimKiem.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/Pizza/TimKiem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcVGltS2llbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/QuanLy/Coupon.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/QuanLy/Coupon.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5XENvdXBvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/QuanLy/Dashboard.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/QuanLy/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5XERhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/QuanLy/DonHang.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/QuanLy/DonHang.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5XERvbkhhbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/QuanLy/Pizza.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/QuanLy/Pizza.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5XFBpenphLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/QuanLy/SuaCoupon.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/QuanLy/SuaCoupon.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5XFN1YUNvdXBvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/QuanLy/SuaPizza.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/QuanLy/SuaPizza.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5XFN1YVBpenphLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/QuanLy/TaoCoupon.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/QuanLy/TaoCoupon.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5XFRhb0NvdXBvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/QuanLy/ThemPizza.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/QuanLy/ThemPizza.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5XFRoZW1QaXp6YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/Shared/Error.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/Shared/_FooterContact.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/Shared/_FooterContact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/Shared/_PizzaCardCompany.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/Shared/_PizzaCardCompany.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QaXp6YUNhcmRDb21wYW55LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/_ViewImports.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/_ViewStart.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ad/Desktop/DoAnThayBang/webbanpizza/webbanpizza/Views/Shared/_Layout.cshtml]
+[D:/DoAnThayBang/webbanpizza/webbanpizza/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-nuop3le0wr

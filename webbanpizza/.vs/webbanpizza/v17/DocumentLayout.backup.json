@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ad\\Desktop\\DoAnThayBang\\webbanpizza\\",
+  "WorkspaceRootPath": "D:\\DoAnThayBang\\webbanpizza\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{614A59EA-0C76-42BD-A343-83C3EA33BC1E}|webbanpizza\\webbanpizza.csproj|c:\\users\\ad\\desktop\\doanthaybang\\webbanpizza\\webbanpizza\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{614A59EA-0C76-42BD-A343-83C3EA33BC1E}|webbanpizza\\webbanpizza.csproj|d:\\doanthaybang\\webbanpizza\\webbanpizza\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614A59EA-0C76-42BD-A343-83C3EA33BC1E}|webbanpizza\\webbanpizza.csproj|solutionrelative:webbanpizza\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614A59EA-0C76-42BD-A343-83C3EA33BC1E}|webbanpizza\\webbanpizza.csproj|d:\\doanthaybang\\webbanpizza\\webbanpizza\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{614A59EA-0C76-42BD-A343-83C3EA33BC1E}|webbanpizza\\webbanpizza.csproj|solutionrelative:webbanpizza\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -14,23 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "D:\\DoAnThayBang\\webbanpizza\\webbanpizza\\Controllers\\PizzaController.cs",
+              "RelativeDocumentMoniker": "webbanpizza\\Controllers\\PizzaController.cs",
+              "ToolTip": "D:\\DoAnThayBang\\webbanpizza\\webbanpizza\\Controllers\\PizzaController.cs",
+              "RelativeToolTip": "webbanpizza\\Controllers\\PizzaController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T10:01:32.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ad\\Desktop\\DoAnThayBang\\webbanpizza\\webbanpizza\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DoAnThayBang\\webbanpizza\\webbanpizza\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "webbanpizza\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Ad\\Desktop\\DoAnThayBang\\webbanpizza\\webbanpizza\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DoAnThayBang\\webbanpizza\\webbanpizza\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "webbanpizza\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
