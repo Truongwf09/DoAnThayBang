@@ -41,9 +41,17 @@ namespace WebBanPizza.Controllers
 
             return View(donHangs);
         }
+        [HttpGet("QuanLy/DoiTrangThai/{id}")]
+        public IActionResult DoiTrangThai(int id, string trangThai)
+        {
+            return RedirectToAction(
+            nameof(CapNhatTrangThai),
+             new { id = id, trangThai = trangThai }
+          );
+        }
 
-        [HttpPost]
-        [ValidateAntiForgeryToken]
+        [HttpGet]
+
         public async Task<IActionResult> CapNhatTrangThai(int id, string trangThai, bool daThanhToan, string returnUrl)
         {
             if (!IsAdmin()) return Unauthorized();
@@ -62,7 +70,7 @@ namespace WebBanPizza.Controllers
             {
                 DonHangId = donHang.DonHangId,
                 TrangThai = donHang.TrangThai,
-                ThoiGian = DateTime.Now
+                ThoiGian = DateTime.UtcNow
             });
 
             await _context.SaveChangesAsync();
