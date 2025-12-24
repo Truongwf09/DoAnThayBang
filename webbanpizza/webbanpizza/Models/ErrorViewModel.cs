@@ -1,4 +1,4 @@
-namespace webbanpizza.Models
+namespace WebBanPizza.Models
 {
     public class ErrorViewModel
     {
