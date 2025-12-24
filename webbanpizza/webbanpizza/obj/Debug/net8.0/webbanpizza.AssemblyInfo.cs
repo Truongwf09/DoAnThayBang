@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webbanpizza")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e71893ca3b6b0fbb048b69299884685fe5ed623")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcd2b6a6df9f5736c715529cb6f64c1c6c28d5d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("webbanpizza")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webbanpizza")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
