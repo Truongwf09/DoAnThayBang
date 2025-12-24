@@ -56,7 +56,7 @@ public class PizzaController : Controller
             UserId = userId.Value,
             SoSao = Math.Clamp(soSao, 1, 5),
             BinhLuan = string.IsNullOrWhiteSpace(binhLuan) ? null : binhLuan.Trim(),
-            NgayDanhGia = DateTime.Now
+            NgayDanhGia = DateTime.UtcNow
         };
 
         _context.DanhGia.Add(review);
